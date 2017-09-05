@@ -1,3 +1,5 @@
+this line was added after configuring SSH for github
+
 this line was added after we branched to CS4830TestBranch
 
 this is the second line added
